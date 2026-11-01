@@ -1,48 +1,38 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=205&color=0:FFE5EC,50:EBDCF8,100:D7ECFF&text=Hello%20there!%20%F0%9F%8C%B7&fontColor=66527D&fontSize=40&fontAlignY=39&animation=fadeIn&desc=Software%20Tester%20Intern%20%7C%20QA%20Enthusiast&descAlignY=62&descSize=17" alt="Pastel GitHub profile banner" />
+<img src="./assets/testing-banner.svg" alt="Pastel Software Tester Intern animated banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=19&duration=3500&pause=1300&color=9A78B7&center=true&vCenter=true&width=610&height=52&lines=Manual+Testing+%E2%9C%A8+Test+Case+Design;Functional+Testing+%F0%9F%8C%B8+API+Testing;Little+steps%2C+better+software+%F0%9F%92%97" alt="Animated introduction" />
-
-<sub>🌸 Quality matters · Keep learning · Keep growing 🌸</sub>
+**Software Testing · Quality Assurance · Continuous Learning**
 
 </div>
 
-## 🌷 About
+## About
 
-Định hướng phát triển trong lĩnh vực **Software Testing / Quality Assurance**, tập trung vào phân tích yêu cầu, thiết kế Test Case, kiểm thử chức năng, kiểm tra API và ghi nhận kết quả kiểm thử.
+Định hướng phát triển tại vị trí **Software Tester Intern**, tập trung vào kiểm thử chức năng, thiết kế Test Case, kiểm tra API và đánh giá chất lượng phần mềm.
 
-## 🧸 Skills & Tools
+## Skills & Tools
 
-| Lĩnh vực | Kỹ năng và công cụ |
+| Nhóm | Kiến thức và công cụ |
 |---|---|
-| **Testing** | Manual Testing, Functional Testing, UI Testing, Black-box Testing |
+| **Software Testing** | Manual Testing, Functional Testing, UI Testing, Black-box Testing |
 | **Test Design** | Equivalence Partitioning, Boundary Value Analysis, Scenario-based Testing |
-| **API & Tools** | Postman, Chrome DevTools, Excel, Git, GitHub |
-| **Technical Knowledge** | SQL, Java, HTML, CSS, JavaScript |
+| **Tools** | Excel, Postman, Chrome DevTools, Git, GitHub |
+| **Technical** | SQL, Java, HTML, CSS, JavaScript |
 
-## 🍓 Featured Testing Projects
+## Featured Projects
 
-### 🛍️ [Fashion Management System – Software Testing](https://github.com/eniuu127/fashion-management-system-testing)
+### [Fashion Management System – Software Testing](https://github.com/eniuu127/fashion-management-system-testing)
 
-Phân tích và đặc tả yêu cầu phần mềm (SRS), lập kế hoạch kiểm thử, thiết kế và thực thi Test Case cho hệ thống quản lý và bán hàng thời trang.
+**Phân tích nghiệp vụ và kiểm thử phần mềm.** Phân tích yêu cầu, xây dựng tài liệu SRS, lập kế hoạch kiểm thử và thiết kế, thực thi Test Case cho các luồng hoạt động chính của hệ thống quản lý và bán hàng thời trang.
 
-**Documentation:** [SRS](https://github.com/eniuu127/fashion-management-system-testing/tree/main/01-Requirement-Analysis) · [Test Plan](https://github.com/eniuu127/fashion-management-system-testing/tree/main/02-Test-Plan) · [Test Cases](https://github.com/eniuu127/fashion-management-system-testing/tree/main/03-Test-Cases)
+[SRS](https://github.com/eniuu127/fashion-management-system-testing/tree/main/01-Requirement-Analysis) · [Test Plan](https://github.com/eniuu127/fashion-management-system-testing/tree/main/02-Test-Plan) · [Test Cases](https://github.com/eniuu127/fashion-management-system-testing/tree/main/03-Test-Cases)
 
-### 🏡 [StayTour – Homestay & Tour Booking System](https://github.com/eniuu127/staytour-software-testing)
+### [StayTour – Homestay & Tour Booking System](https://github.com/eniuu127/staytour-software-testing)
 
-Xây dựng kịch bản kiểm thử dựa trên yêu cầu và luồng hoạt động của website; kiểm thử đăng ký, đăng nhập, tìm kiếm, đặt phòng, đặt tour và thanh toán. Sử dụng Postman và Chrome DevTools để hỗ trợ kiểm thử.
+**Kiểm thử phần mềm | 08/2026 – 10/2026.** Xây dựng kịch bản kiểm thử theo yêu cầu và luồng hoạt động; kiểm thử đăng ký, đăng nhập, tìm kiếm, đặt phòng, đặt tour và thanh toán. Sử dụng Postman kiểm tra API, Chrome DevTools hỗ trợ kiểm tra website; đối chiếu kết quả thực tế và mong đợi để ghi nhận lỗi, đánh giá kết quả.
 
-**Documentation:** [Functional & Security Test Cases](https://github.com/eniuu127/staytour-software-testing/tree/main/01-Test-Cases)
+[Functional & Security Test Cases](https://github.com/eniuu127/staytour-software-testing/tree/main/01-Test-Cases)
 
-## 🎀 Career Goal
+---
 
-Tìm kiếm cơ hội **Software Tester Intern** để vận dụng kiến thức vào dự án thực tế, nâng cao kỹ năng phát hiện lỗi, phân tích yêu cầu và đảm bảo chất lượng phần mềm.
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:FFE5EC,50:EBDCF8,100:D7ECFF" alt="Pastel wave footer" />
-
-<sub>Made with care ♡</sub>
-
-</div>
+<div align="center"><sub>Building better software, one test at a time.</sub></div>
