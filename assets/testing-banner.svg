@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Pastel animated Software Tester Intern banner">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f5"/><stop offset=".52" stop-color="#efe7ff"/><stop offset="1" stop-color="#def4ff"/></linearGradient>
+<filter id="sh"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#ad9ecb" flood-opacity=".23"/></filter>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g fill="#fff" opacity=".55"><circle cx="75" cy="58" r="64"/><circle cx="1130" cy="280" r="105"/><circle cx="950" cy="30" r="40"/></g>
+<g fill="none" stroke="#fff" stroke-width="2" opacity=".8">
+<path d="M50 218q22-22 44 0t44 0"/><path d="M1060 65q20-20 40 0t40 0"/>
+</g>
+<g transform="translate(78 65)">
+<text x="0" y="38" font-size="22" fill="#9a79ac" font-family="Arial,sans-serif" font-weight="600">HELLO, WELCOME TO MY GITHUB</text>
+<text x="0" y="110" font-size="51" fill="#4f4866" font-family="Arial,sans-serif" font-weight="700">Software Tester Intern</text>
+<text x="2" y="156" font-size="23" fill="#716885" font-family="Arial,sans-serif">Manual Testing  •  Test Design  •  API Testing</text>
+<rect x="0" y="183" width="286" height="37" rx="18" fill="#fff" opacity=".9"/>
+<circle cx="21" cy="201" r="7" fill="#8dc7b0"/>
+<text x="39" y="208" font-size="17" fill="#6a6079" font-family="Arial,sans-serif">Learning • Testing • Improving</text>
+</g>
+<g filter="url(#sh)" transform="translate(858 46)">
+<rect x="0" y="22" rx="19" width="266" height="177" fill="#fff"/>
+<rect x="14" y="36" rx="10" width="238" height="148" fill="#6a638e"/>
+<rect x="26" y="51" rx="6" width="214" height="116" fill="#f8f6ff"/>
+<rect x="44" y="70" rx="5" width="175" height="22" fill="#e7def7"/>
+<text x="56" y="86" font-size="13" fill="#685c82" font-family="monospace">TEST EXECUTION</text>
+<rect x="44" y="104" rx="5" width="175" height="46" fill="#fff"/>
+<g font-family="monospace" font-size="14" fill="#6a6079"><text x="55" y="124">Login</text><text x="55" y="143">Checkout</text></g>
+<g fill="#61b49b"><circle cx="197" cy="119" r="7"/><circle cx="197" cy="138" r="7"/></g>
+<path d="M193 119l3 3 5-6M193 138l3 3 5-6" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="M-19 207h305l-28 16H11z" fill="#d9cce9"/>
+<rect x="112" y="207" width="48" height="7" rx="3" fill="#b9a7cf"/>
+</g>
+<g fill="#fff" opacity=".85">
+<circle cx="812" cy="54" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1156" cy="146" r="7"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="815" cy="270" r="4"><animate attributeName="opacity" values=".1;1;.1" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(0 0)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5s" repeatCount="indefinite"/>
+<path d="M1078 32q9-20 18 0q18-9 18 9q-9 13-18 18q-20-7-18-27" fill="#ffbdd2" opacity=".8"/>
+</g>
+</svg>
