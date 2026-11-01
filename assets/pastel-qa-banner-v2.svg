@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Pastel animated Software Tester Intern banner">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fff0f5"/><stop offset=".52" stop-color="#efe7ff"/><stop offset="1" stop-color="#def4ff"/></linearGradient>
+<filter id="sh"><feDropShadow dx="0" dy="7" stdDeviation="10" flood-color="#ad9ecb" flood-opacity=".23"/></filter>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<g fill="#fff" opacity=".55"><circle cx="75" cy="58" r="64"/><circle cx="1130" cy="280" r="105"/><circle cx="950" cy="30" r="40"/></g>
+<g fill="none" stroke="#fff" stroke-width="2" opacity=".8">
+<path d="M50 218q22-22 44 0t44 0"/><path d="M1060 65q20-20 40 0t40 0"/>
+</g>
+<g transform="translate(78 65)">
+<text x="0" y="38" font-size="22" fill="#9a79ac" font-family="Arial,sans-serif" font-weight="600">HELLO, WELCOME TO MY GITHUB</text>
+<text x="0" y="110" font-size="51" fill="#4f4866" font-family="Arial,sans-serif" font-weight="700">Software Tester Intern</text>
+<text x="2" y="156" font-size="23" fill="#716885" font-family="Arial,sans-serif">Manual Testing  •  Test Design  •  API Testing</text>
+<rect x="0" y="183" width="286" height="37" rx="18" fill="#fff" opacity=".9"/>
+<circle cx="21" cy="201" r="7" fill="#8dc7b0"/>
+<text x="39" y="208" font-size="17" fill="#6a6079" font-family="Arial,sans-serif">Learning • Testing • Improving</text>
+</g>
+<g filter="url(#sh)" transform="translate(858 46)">
+<rect x="0" y="22" rx="19" width="266" height="177" fill="#fff"/>
+<rect x="14" y="36" rx="10" width="238" height="148" fill="#6a638e"/>
+<rect x="26" y="51" rx="6" width="214" height="116" fill="#f8f6ff"/>
+<rect x="44" y="70" rx="5" width="175" height="22" fill="#e7def7"/>
+<text x="56" y="86" font-size="13" fill="#685c82" font-family="monospace">TEST EXECUTION</text>
+<rect x="44" y="104" rx="5" width="175" height="46" fill="#fff"/>
+<g font-family="monospace" font-size="14" fill="#6a6079"><text x="55" y="124">Login</text><text x="55" y="143">Checkout</text></g>
+<g fill="#61b49b"><circle cx="197" cy="119" r="7"/><circle cx="197" cy="138" r="7"/></g>
+<path d="M193 119l3 3 5-6M193 138l3 3 5-6" fill="none" stroke="#fff" stroke-width="2"/>
+<path d="M-19 207h305l-28 16H11z" fill="#d9cce9"/>
+<rect x="112" y="207" width="48" height="7" rx="3" fill="#b9a7cf"/>
+</g>
+<g fill="#fff" opacity=".85">
+<circle cx="812" cy="54" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="1156" cy="146" r="7"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="815" cy="270" r="4"><animate attributeName="opacity" values=".1;1;.1" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(0 0)"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5s" repeatCount="indefinite"/>
+<path d="M1078 32q9-20 18 0q18-9 18 9q-9 13-18 18q-20-7-18-27" fill="#ffbdd2" opacity=".8"/>
+</g>
+<!-- Gentle sparkle animation and cute bunny mascot -->
+<g fill="#ffffff" stroke="#fff" stroke-width="1.2">
+<g transform="translate(160 42)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="1.7s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="1.7s" begin="0s" repeatCount="indefinite"/></path></g>
+<g transform="translate(355 31)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="2.6s" begin="0.3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></path></g>
+<g transform="translate(650 40)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="3.1s" begin="0.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="3.1s" begin="0.6s" repeatCount="indefinite"/></path></g>
+<g transform="translate(780 205)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="2.4s" begin="0.8999999999999999s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="2.4s" begin="0.8999999999999999s" repeatCount="indefinite"/></path></g>
+<g transform="translate(1154 236)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="3.6s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></path></g>
+<g transform="translate(740 283)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="4.1s" begin="1.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="4.1s" begin="1.5s" repeatCount="indefinite"/></path></g>
+<g transform="translate(105 278)"><path d="M0 -10 L2 -2 L10 0 L2 2 L0 10 L-2 2 L-10 0 L-2 -2 Z" opacity=".7"><animate attributeName="opacity" values=".15;1;.15" dur="3.2s" begin="1.7999999999999998s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values=".6;1.2;.6" dur="3.2s" begin="1.7999999999999998s" repeatCount="indefinite"/></path></g>
+</g>
+<g transform="translate(1038 251)">
+<animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -5;0 0" dur="3.8s" repeatCount="indefinite"/>
+<!-- tiny pastel bunny -->
+<ellipse cx="0" cy="39" rx="47" ry="8" fill="#cdb5dd" opacity=".3"/>
+<ellipse cx="-19" cy="-29" rx="13" ry="35" transform="rotate(-9 -19 -29)" fill="#ffffff" stroke="#d6bde4" stroke-width="3"/>
+<ellipse cx="18" cy="-29" rx="13" ry="35" transform="rotate(9 18 -29)" fill="#ffffff" stroke="#d6bde4" stroke-width="3"/>
+<ellipse cx="-19" cy="-29" rx="6" ry="22" transform="rotate(-9 -19 -29)" fill="#ffcbde"/>
+<ellipse cx="18" cy="-29" rx="6" ry="22" transform="rotate(9 18 -29)" fill="#ffcbde"/>
+<circle cx="0" cy="10" r="39" fill="#fff" stroke="#d6bde4" stroke-width="3"/>
+<ellipse cx="-14" cy="9" rx="4" ry="6" fill="#574967"/><ellipse cx="14" cy="9" rx="4" ry="6" fill="#574967"/>
+<circle cx="-23" cy="21" r="7" fill="#ffb9cb" opacity=".7"/><circle cx="23" cy="21" r="7" fill="#ffb9cb" opacity=".7"/>
+<path d="M-4 24q4 5 8 0" stroke="#855d86" stroke-width="2" stroke-linecap="round" fill="none"/>
+<path d="M0 16l-4-3q4-5 8 0z" fill="#f19aaf"/>
+<path d="M-30 -3q-11-8-12-19" fill="none" stroke="#fff" stroke-width="3"/>
+<path d="M0 -24q-9-12 0-20q9 8 0 20z" fill="#e8c9ee"/>
+</g>
+<g id="visible-sparkles"><path d="M730 57 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/>
+<path d="M810 147 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/>
+<path d="M1150 82 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/>
+<path d="M890 259 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/>
+<path d="M1180 233 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/>
+<path d="M720 259 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#f4a8c8" stroke="#fff" stroke-width="1.5"/></g><g transform="translate(1040 247)">
+<ellipse cx="0" cy="42" rx="55" ry="11" fill="#c7b0dc" opacity=".28"/>
+<ellipse cx="-23" cy="-39" rx="17" ry="46" fill="#fff" stroke="#d9b7d9" stroke-width="4" transform="rotate(-12 -23 -39)"/>
+<ellipse cx="23" cy="-39" rx="17" ry="46" fill="#fff" stroke="#d9b7d9" stroke-width="4" transform="rotate(12 23 -39)"/>
+<ellipse cx="-23" cy="-39" rx="8" ry="32" fill="#ffc4d9" transform="rotate(-12 -23 -39)"/>
+<ellipse cx="23" cy="-39" rx="8" ry="32" fill="#ffc4d9" transform="rotate(12 23 -39)"/>
+<circle cy="10" r="45" fill="white" stroke="#d9b7d9" stroke-width="4"/>
+<ellipse cx="-17" cy="7" rx="5" ry="7" fill="#554869"/><ellipse cx="17" cy="7" rx="5" ry="7" fill="#554869"/>
+<ellipse cx="-27" cy="22" rx="9" ry="6" fill="#ffbdd3"/><ellipse cx="27" cy="22" rx="9" ry="6" fill="#ffbdd3"/>
+<path d="M-6 25q6 8 12 0" stroke="#66516c" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M-5 15q5-5 10 0l-5 5z" fill="#e9a0b8"/>
+</g></svg>
