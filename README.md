@@ -8,7 +8,7 @@
 
 ## About
 
-Mong muốn vận dụng kiến thức kiểm thử phần mềm vào các dự án thực tế, tích lũy kinh nghiệm và nâng cao kỹ năng thiết kế, thực thi kiểm thử. Hướng đến phát triển thành **Automation Tester**, từng bước làm chủ công cụ và kỹ thuật kiểm thử tự động để góp phần nâng cao chất lượng phần mềm.
+Mong muốn vận dụng kiến thức kiểm thử phần mềm vào các dự án thực tế, tích lũy kinh nghiệm và nâng cao kỹ năng thiết kế, thực thi kiểm thử. Hướng đến phát triển thành Automation Tester, từng bước làm chủ công cụ và kỹ thuật kiểm thử tự động để góp phần nâng cao chất lượng phần mềm.
 
 ## Skills & Tools
 
