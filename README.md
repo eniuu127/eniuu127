@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/testing-banner.svg" alt="Pastel Software Tester Intern animated banner" width="100%" />
+<img src="./assets/pastel-qa-banner-v2.svg" alt="Pastel Software Tester Intern animated banner" width="100%" />
 
-**Software Testing · Quality Assurance · Continuous Learning**
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=19&duration=2800&pause=900&color=A17AB9&center=true&vCenter=true&width=660&height=48&lines=Manual+Testing+%7C+Test+Case+Design;Functional+Testing+%7C+API+Testing;Finding+bugs%2C+improving+quality" alt="Animated typing introduction" />
 
 </div>
 
